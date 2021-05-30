@@ -1,0 +1,9 @@
+selenide:
+  browser: "chrome"
+  clickViaJS: false
+  startMaximized: true
+  browserSize: 1920x1080
+  timeout: 30000
+  networkConnectionEnabled: true
+wdm:
+  driverVersion: "89.0.4389.23"
