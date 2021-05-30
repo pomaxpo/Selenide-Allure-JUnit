@@ -19,3 +19,4 @@ out
 #tomcat log
 tomcat.8080/
 
+/.idea/
